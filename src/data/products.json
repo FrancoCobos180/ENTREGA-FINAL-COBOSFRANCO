@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung",
+    "description": "A 20",
+    "code": "P001",
+    "price": 150,
+    "status": true,
+    "stock": 15,
+    "category": "Categoría 1"
+  },
+  {
+    "id": 2,
+    "title": "Samsung",
+    "description": "A 52",
+    "code": "P002",
+    "price": 200,
+    "status": true,
+    "stock": 20,
+    "category": "Celulares"
+  },
+  {
+    "id": 3,
+    "title": "Motorola",
+    "description": "Moto e40",
+    "code": "P003",
+    "price": 300,
+    "status": true,
+    "stock": 30,
+    "category": "Celulares"
+  }
+  {
+    "id": 4,
+    "title": "Motorola",
+    "description": "Moto e70",
+    "code": "P003",
+    "price": 500,
+    "status": true,
+    "stock": 30,
+    "category": "Celulares"
+  }
+  {
+    "id": 5,
+    "title": "XIAOMI",
+    "description": "EDGE 40",
+    "code": "P003",
+    "price": 700,
+    "status": true,
+    "stock": 30,
+    "category": "Celulares"
+  }
+  {
+    "id": 6,
+    "title": "XIAOMI",
+    "description": "PUSH 20",
+    "code": "P003",
+    "price": 400,
+    "status": true,
+    "stock": 20,
+    "category": "Celulares"
+  }
+  {
+    "id": 7,
+    "title": "TCL",
+    "description": "TCL 10",
+    "code": "P003",
+    "price": 200,
+    "status": true,
+    "stock": 10,
+    "category": "Celulares"
+  }
+  {
+    "id": 8,
+    "title": "TCL",
+    "description": "PARSH",
+    "code": "P003",
+    "price": 800,
+    "status": true,
+    "stock": 40,
+    "category": "Celulares"
+  }
+  {
+    "id": 9,
+    "title": "Motorola",
+    "description": "Moto e80",
+    "code": "P003",
+    "price": 800,
+    "status": true,
+    "stock": 20,
+    "category": "Celulares"
+  }
+  {
+    "id": 10,
+    "title": "Samsung",
+    "description": "A32",
+    "code": "P003",
+    "price": 400,
+    "status": true,
+    "stock": 40,
+    "category": "Celulares"
+  }
+  {
+    "id": 11,
+    "title": "Samsung",
+    "description": "A80",
+    "code": "P003",
+    "price": 600,
+    "status": true,
+    "stock": 10,
+    "category": "Celulares"
+  }
+  {
+    "id": 12,
+    "title": "Samsung",
+    "description": "S21",
+    "code": "P003",
+    "price": 500,
+    "status": true,
+    "stock": 10,
+    "category": "Celulares"
+  }
+  {
+    "id": 13,
+    "title": "Samsung",
+    "description": "S22",
+    "code": "P003",
+    "price": 900,
+    "status": true,
+    "stock": 30,
+    "category": "Celulares"
+  }
+  {
+    "id": 14,
+    "title": "NOKIA",
+    "description": "REDMI 8",
+    "code": "P003",
+    "price": 300,
+    "status": true,
+    "stock": 30,
+    "category": "Celulares"
+  }
+  {
+    "id": 15,
+    "title": "ALCATEL",
+    "description": "ALCATEL 1",
+    "code": "P003",
+    "price": 400,
+    "status": true,
+    "stock": 15,
+    "category": "Celulares"
+  }
+  
+
+]
